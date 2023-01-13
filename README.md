@@ -1,4 +1,8 @@
 # Weather forecast of 5 days
+## 1. To open the web page, you can click the Webapp link below:-
+> here is the website link: [Web app]( https://mayankkalra96.github.io/Weather-forecast/)
+
+
 
 ## Acceptance Criteria
 
