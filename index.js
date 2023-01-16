@@ -14,7 +14,7 @@ function mainMaster() {
     cityNameTitle.text(` ${city} Current Weather Conditions`);    
     localStorage.setItem('recentSearch', city);
     //futureaReq();
-    const reqURL =  "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + APIkey;
+    const reqURL =  "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + APIkey;
     if(city == null){
         console.log('err');
     } else {
